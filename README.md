@@ -27,7 +27,7 @@ Start by scanning the machine with tools like `nmap` or `masscan` to identify op
 
 sudo nmap -sV [remote host ip]
 
-*Add Screenshot*
+https://github.com/TPrzybycien/Hack-the-Box-Explosion-Pen-Test/blob/68fa63930e29185a0d1986041dad28900fa96546/Screenshot%202026-03-15%20222429.png
 
 Paying close attention to the open port 3389 ms-wbt-server 
 
