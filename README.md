@@ -10,7 +10,6 @@ The Explosion machine on Hack The Box is a beginner-to-intermediate level Linux 
 - [Privilege Escalation](#privilege-escalation)
 - [Root Flag](#root-flag)
 - [Lessons Learned](#lessons-learned)
-- [References](#references)
 
 ## Machine Overview
 
@@ -28,3 +27,30 @@ Start by scanning the machine with tools like `nmap` or `masscan` to identify op
 
 sudo nmap -sV [remote host ip]
 
+*Add Screenshot*
+
+Paying close attention to the open port 3389 ms-wbt-server 
+
+*Add Screenshot*
+
+## Exploitation 
+
+While looking through the Man pages for xfreerdp, we find a /v option that allows us to specify a hostname 
+
+*Add Screenshot*
+
+While testing very common usernames I discovered that "Administrator" may allow us to circumvent the need for a password 
+
+I have successfuly logged in as Administrator 
+
+*Add screenshot*
+
+## Root Flag 
+
+The root flag for this machine is located right on the dashboard 
+
+*Add Screenshot*
+
+## Lession Learned 
+
+The Explosion machine serves as a powerful reminder of the importance of system hardening, proper account security, and rigorous configuration management. By addressing common vulnerabilities and misconfigured services, organizations can significantly improve their overall security posture and reduce the likelihood of exploitation by attackers. This machine reinforced the need to implement security best practices, from restricting access to critical system functions to continuously auditing system configurations.
