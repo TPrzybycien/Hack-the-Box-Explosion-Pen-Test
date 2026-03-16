@@ -51,7 +51,7 @@ https://github.com/TPrzybycien/Hack-the-Box-Explosion-Pen-Test/blob/70abba605340
 
 The root flag for this machine is located right on the dashboard 
 
-*Add Screenshot*
+https://github.com/TPrzybycien/Hack-the-Box-Explosion-Pen-Test/blob/f06eb183f13fc343dd866b7ab28b2a13d1163d6d/Screenshot%202026-03-15%20221109.png
 
 ## Lession Learned 
 
