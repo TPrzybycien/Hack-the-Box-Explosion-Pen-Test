@@ -41,6 +41,8 @@ https://github.com/TPrzybycien/Hack-the-Box-Explosion-Pen-Test/blob/8bd5c0aadcd4
 
 While testing very common usernames I discovered that "Administrator" may allow us to circumvent the need for a password 
 
+https://github.com/TPrzybycien/Hack-the-Box-Explosion-Pen-Test/blob/0fdd796f5bea69365e490ece1401a1843d10e9e8/Screenshot%202026-03-15%20220951.png
+
 I have successfuly logged in as Administrator 
 
 *Add screenshot*
