@@ -31,7 +31,7 @@ https://github.com/TPrzybycien/Hack-the-Box-Explosion-Pen-Test/blob/68fa63930e29
 
 Paying close attention to the open port 3389 ms-wbt-server 
 
-*Add Screenshot*
+https://github.com/TPrzybycien/Hack-the-Box-Explosion-Pen-Test/blob/0794a47982b56f66a11d0896715d8fd0ce32a0c6/Screenshot%202026-03-15%20220758.png
 
 ## Exploitation 
 
