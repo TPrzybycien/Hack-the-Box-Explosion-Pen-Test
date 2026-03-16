@@ -37,7 +37,7 @@ Paying close attention to the open port 3389 ms-wbt-server
 
 While looking through the Man pages for xfreerdp, we find a /v option that allows us to specify a hostname 
 
-*Add Screenshot*
+https://github.com/TPrzybycien/Hack-the-Box-Explosion-Pen-Test/blob/8bd5c0aadcd4d7da8aafd396a062fa493b603ef0/Screenshot%202026-03-15%20230633.png
 
 While testing very common usernames I discovered that "Administrator" may allow us to circumvent the need for a password 
 
