@@ -45,7 +45,7 @@ https://github.com/TPrzybycien/Hack-the-Box-Explosion-Pen-Test/blob/0fdd796f5bea
 
 I have successfuly logged in as Administrator 
 
-*Add screenshot*
+https://github.com/TPrzybycien/Hack-the-Box-Explosion-Pen-Test/blob/70abba6053408e017efdb0065231cf9c2737c153/Screenshot%202026-03-15%20221012.png
 
 ## Root Flag 
 
