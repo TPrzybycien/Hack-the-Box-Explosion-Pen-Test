@@ -53,6 +53,6 @@ The root flag for this machine is located right on the dashboard
 
 https://github.com/TPrzybycien/Hack-the-Box-Explosion-Pen-Test/blob/f06eb183f13fc343dd866b7ab28b2a13d1163d6d/Screenshot%202026-03-15%20221109.png
 
-## Lession Learned 
+## Lessions Learned 
 
 The Explosion machine serves as a powerful reminder of the importance of system hardening, proper account security, and rigorous configuration management. By addressing common vulnerabilities and misconfigured services, organizations can significantly improve their overall security posture and reduce the likelihood of exploitation by attackers. This machine reinforced the need to implement security best practices, from restricting access to critical system functions to continuously auditing system configurations.
